@@ -31,6 +31,8 @@
 ---
 
 ## ⚡ วิธีใช้งาน
-1. Clone repo นี้  
+1. Clone repo นี้ หรือโหลดไฟล์ใน GitHun ทั้งหมด
    ```bash
    git clone https://github.com/Faris4166/Web-Music.git
+2. เปิดไฟล์ index.html
+3. ฟังเพลงที่ดีสุดในชีวิต
