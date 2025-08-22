@@ -1,4 +1,4 @@
-<<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Faris4166/Simple-Checklist-Application-in-Python/refs/heads/main/BG.jpg" width="600" />
 </p>
 
